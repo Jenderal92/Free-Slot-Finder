@@ -1,5 +1,8 @@
 # Free Slot Finder  
 
+![Free-Slot-Finder](https://github.com/user-attachments/assets/4b2b20e4-b0de-4c5c-a5e7-665c3c44314b)
+
+
 **Free Slot Finder** helps users find free time slots in their busy schedules by analyzing their Google Calendar events. It is especially useful for individuals managing tight schedules, allowing them to efficiently plan meetings, tasks, or personal activities.  
 
 ---
